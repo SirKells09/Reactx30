@@ -13,7 +13,7 @@ import tom from './sounds/tom.wav';
 import tink from './sounds/tink.wav';
 
 
-export default class drumDisplay extends Component {
+export default class DrumDisplay extends Component {
     render() {
         return (
             <Container>
