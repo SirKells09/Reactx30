@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ProgressLog from './ProgressLog'
+import ProgressLog from '../Week1/ProgressLog/ProgressLog'
 
 
 export default class Home extends Component {
