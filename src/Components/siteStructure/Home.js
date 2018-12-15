@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import ProgressLog from './ProgressLog'
+
 
 export default class Home extends Component {
     render() {
@@ -7,6 +8,7 @@ export default class Home extends Component {
             <div className="main">
                 <div className="mainDiv">
                     <h1>Welcome to 30 React Apps</h1>
+                    <ProgressLog />
 
 
                 </div>
